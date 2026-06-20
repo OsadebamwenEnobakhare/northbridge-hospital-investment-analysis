@@ -9,6 +9,20 @@
 
 NorthBridge Health Investment Fund commissioned an independent, data-driven analysis to identify the strongest hospital investment opportunity from three Nigerian hospital candidates. This repository contains the complete analytical pipeline — from raw data cleaning through to the final investment recommendation.
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Executive%20Overview.png)
+
+### Financial Performance
+![Financial Performance](Financial%20performance.png)
+
+### Clinical Quality
+![Clinical Quality](Clinical%20Quality.png)
+
+### Investment Scoreboard
+![Investment ScoreBoard](Investment%20ScoreBoard.png)
+
 **Recommendation: Invest in Greenfield General Hospital (GGH)**  
 Investment score: **6.36/10** · 1st of 3 candidates
 
