@@ -255,7 +255,7 @@ This capstone project bridges clinical healthcare expertise with data analytics 
 
 ---
 
-## Licence
+## Liscence
 
 This project is an academic and professional capstone. All hospital data used is simulated for educational purposes. No real patient data is included.
 
