@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data — raw CSVs excluded by default (add manually if sharing)
+data/raw/*.csv
+data/clean/*.csv
+
+# Power BI cache
+dashboard/.pbi/
+*.pbiviz
+
+# OS
+.DS_Store
+.DS_Store?
+Thumbs.db
+Desktop.ini
+
+# Office temp files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
