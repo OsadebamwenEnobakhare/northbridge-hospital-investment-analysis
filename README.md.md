@@ -216,7 +216,7 @@ python python/fix_data_quality.py
 
 ## Power BI Dashboard
 
-Open `dashboard/NorthBridge_Dashboard.pbix` in Power BI Desktop.
+Download and open the dashboard file from the `dashboard/` folder in Power BI Desktop.
 
 The dashboard has 4 pages:
 
@@ -233,9 +233,9 @@ The dashboard has 4 pages:
 
 **Enobakhare Osadebamwen**  
 Registered Nurse · Healthcare Data Analyst  
-Inducted by the Nursing and Medical Council of Nigeria
+Inducted by the Nursing and Midwifery Council of Nigeria
 
-*Completed:* ALF Data Analysis Course · CS Academy Automation Course · Dataverse Africa Data Analysis Internship · Aspire Leadership Institute
+*Completed:* ALX Data Analysis Course · TS Academy Automation Course · Dataverse Africa Data Analysis Internship · Aspire Leadership Institute
 
 This capstone project bridges clinical healthcare expertise with data analytics — applying the perspective of a practising nurse to the challenge of healthcare investment analysis.
 
